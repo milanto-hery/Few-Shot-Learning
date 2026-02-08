@@ -13,6 +13,6 @@ Distance-Based Inference: Using Euclidean Distance to compare a new query image 
 ## Dataset & Annotation
 This project uses Implicit Folder Annotation. No external CSV or XML labels are required.
 
-Support Set: Located in data/train/. Each subfolder name (e.g., lemur_catta) acts as the label.
+Support Set: Located in data_lemur/train/. Each subfolder name (e.g., lemur_catta) acts as the label.
 
-Query Set: Located in data/test/. Used to evaluate the model's generalization.
+Query Set: Located in data_lemur/test/. Used to evaluate the model's generalization.
