@@ -20,6 +20,8 @@ Query Set: Located in data/test/. Used to evaluate the model's generalization.
 ## Installation & Usage
 Clone the repo:
 
-Install dependencies:
+Install dependencies: 
+  
+  pip install -r requirements.txt
 
 Run Inference: Open the notebook and execute the final_evaluation cell to see the classifier in action.
