@@ -16,11 +16,3 @@ This project uses Implicit Folder Annotation. No external CSV or XML labels are 
 Support Set: Located in data/train/. Each subfolder name (e.g., lemur_catta) acts as the label.
 
 Query Set: Located in data/test/. Used to evaluate the model's generalization.
-
-## Installation & Usage
-Clone the repo:
-
-Install dependencies: 
-  
-  `pip install -r requirements.txt
-  `python main.py  # Or run the provided Colab notebook
