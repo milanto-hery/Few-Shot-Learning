@@ -22,6 +22,5 @@ Clone the repo:
 
 Install dependencies: 
   
-  pip install -r requirements.txt
-
-Run Inference: Open the notebook and execute the final_evaluation cell to see the classifier in action.
+  `pip install -r requirements.txt
+  `python main.py  # Or run the provided Colab notebook
