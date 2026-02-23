@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: few_shot_learning
+Version: 0.1.0
+Summary: A Prototypical Network for Few-Shot Image Classification
+Author: Milanto
+Requires-Python: >=3.7
+License-File: LICENSE
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: pillow
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
